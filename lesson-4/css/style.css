@@ -1,0 +1,30 @@
+button {
+  height: 50px;
+  width: 150px;
+  color: white;
+  font-size: 25px;
+}
+
+.btn-1 {
+  background-color: red;
+}
+
+.btn-2 {
+  background-color: green;
+}
+
+.red {
+  color: rgb(235, 77, 64);
+}
+
+.blue {
+  color: rgb(66, 133, 244);
+}
+
+.yellow {
+  color: rgb(243, 182, 5);
+}
+
+.green {
+  color: rgb(52, 168, 83);
+}

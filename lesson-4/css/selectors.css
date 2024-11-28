@@ -1,0 +1,36 @@
+* {
+  color: green;
+}
+
+.links {
+  text-align: center;
+}
+
+.links > a {
+  font-size: 30px;
+}
+
+.main > a {
+  font-size: 25px;
+  color: red;
+}
+
+.link-2 + a {
+  color: yellow;
+}
+
+a[href="#about"] {
+  color: brown;
+}
+
+a[href="#contact"] {
+  color: orange;
+}
+
+/* div[class='section-1'] {
+  background-color: aqua;
+} */
+
+/* div.section-1 {
+  background-color: aqua;
+} */

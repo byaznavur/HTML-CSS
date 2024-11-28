@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("../fonts/josefinsans/JosefinSans-Light.ttf");
+}
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("../fonts/josefinsans/JosefinSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("../fonts/josefinsans/JosefinSans-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("../fonts/josefinsans/JosefinSans-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("../fonts/josefinsans/JosefinSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Lobster";
+  src: url("../fonts/lobster/Lobster-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-style: italic;
+}
+
+p {
+  font-weight: 900;
+}
+
+.georgia {
+  font-family: "Georgia", serif;
+}
+
+.arial {
+  font-family: "Arial", sans-serif;
+}
+
+.monaco {
+  font-family: "Monaco", monospace;
+}
+
+.handwriting {
+  font-family: "Lucida Handwriting", cursive;
+}
+
+.papyrus {
+  font-family: "Papyrus", fantasy;
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+}
+
+.josefin {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.lobster {
+  font-family: "Lobster", cursive;
+}

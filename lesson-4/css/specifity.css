@@ -1,0 +1,22 @@
+#btn {
+  color: blue;
+}
+
+.btn-rgtr {
+  color: white;
+  background-color: green;
+  height: 50px;
+  font-size: 25px;
+}
+
+button {
+  color: black !important;
+}
+
+body #btn {
+  color: red;
+}
+
+button.btn {
+  color: orange;
+}

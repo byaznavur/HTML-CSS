@@ -1,0 +1,44 @@
+/* .inline span {
+  display: block;
+} */
+
+/* .block h1, .block h2 {
+  display: inline;
+} */
+
+.inline button {
+  /* display: none; */
+  height: 50px;
+  width: 100px;
+}
+
+.inline img {
+  width: 100px;
+  height: 100px;
+}
+
+.inline a {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  color: white;
+}
+
+.inline span {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  background-color: red;
+}
+
+.block h1, .block h2 {
+  background-color: green;
+  height: 100px;
+}
+
+.block p {
+  background-color: blue;
+  width: 300px;
+  height: 100px;
+}
